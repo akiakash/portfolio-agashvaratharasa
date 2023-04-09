@@ -23,7 +23,7 @@ export default function Header() {
           </a>
         </div>
         <Image
-          src="/images/portfolio1.png"
+          src="images/portfolio1.png"
           width={513}
           height={513}
           alt="Agash"
