@@ -29,7 +29,10 @@ const Home: NextPage = () => {
           property="og:title"
           content="Agash - Full Stack Developer"
         />
-        <meta data-rh="true" content="/images/portfolio1.png" />
+        <meta
+          data-rh="true"
+          content="https://imagesportfolio.s3.ap-northeast-1.amazonaws.com/portfolio1.PNG"
+        />
       </Head>
 
       {/* Header */}
