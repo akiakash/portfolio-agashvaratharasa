@@ -8,26 +8,26 @@ const Home: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Agash - Frontend Developer</title>
+        <title>Agash - Full Stack Developer</title>
         <link rel="icon" href="/favicon.ico" />
         <meta name="author" content=" Agash" />
         <meta name="keywords" content="ReactJS, NextJS" />
         <meta
           name="description"
-          content="I am a talented Front-End developer with a UI/UX design background."
+          content="I am a talented Full-Stack developer."
         />
         <meta charSet="UTF-8" />
         <meta name="theme-color" content="#2D2E32" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-        <meta property="og:site_name" content="Agash - Frontend Developer" />
+        <meta property="og:site_name" content="Agash - Full Stack Developer" />
         <meta property="og:locale" content="en_GB" />
         <title data-rh="true">Agash - Full Stack Developer</title>
         <meta data-rh="true" property="og:type" content="website" />
         <meta
           data-rh="true"
           property="og:title"
-          content="Agash - Frontend Developer"
+          content="Agash - Full Stack Developer"
         />
         <meta data-rh="true" content="/images/portfolio1.png" />
       </Head>
